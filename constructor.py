@@ -1,9 +1,12 @@
 class Employee:
 
-  def __init__(self, name,dept, role):
+
+
+    def __init__(self, name,dept, role):
       self.name = name
       self.dept = dept
       self.role = role
+
 
     def show_details(self):
         print(self.name)
