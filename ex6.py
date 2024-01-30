@@ -10,3 +10,6 @@ if x > 80:
 if x > 70:
     print("C")
 
+if x >= 70:
+    print("C")
+
